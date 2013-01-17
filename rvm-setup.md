@@ -22,7 +22,7 @@ ruby -v
 "ree_project"   could be anything
 10. Go to your project's folder:
 `cd ree_project/`
-* Press `enter`, and type `yes`
+  - Press `enter`, and type `yes`
 11.  Copy and paste the install command you see in the terminal
 12.  Copy and paste the "ERROR: Gemset" command you see in the terminal
 

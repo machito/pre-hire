@@ -10,7 +10,6 @@ Rails
 * Active Merchant
 * Haml
 * PaperClip
-* 
 
 JavaScript
 --

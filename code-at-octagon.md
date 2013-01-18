@@ -7,7 +7,7 @@ Here is a link to the style that we have adopted as a pattern:
 Rails
 --
 
-* Active Merchant [read more](http://activemerchant.org/)
+* Activemerchant [read more](http://activemerchant.org/)
 * Haml [read more](http://haml.info/)
 * Paperclip [read more](https://github.com/thoughtbot/paperclip)
 

@@ -7,16 +7,16 @@ Here is a link to the style that we have adopted as a pattern:
 Rails
 --
 
-* Active Merchant
-* Haml
-* PaperClip
+* Active Merchant [read more](http://activemerchant.org/)
+* Haml [read more](http://haml.info/)
+* Paperclip [read more](https://github.com/thoughtbot/paperclip)
 
 JavaScript
 --
 
-* Jquery
-* High Charts
-* Color Box
+* Jquery [read more](http://jquery.com/)
+* Highcharts [read more](http://www.highcharts.com/)
+* Colorbox [read more](http://www.jacklmoore.com/colorbox)
 
 CSS
 --
@@ -26,4 +26,4 @@ CSS
 Continuous Integration
 --
 
-* We are moving toward a continuos integration workflow, so its very important to have strong test, and lots of test coverage.
+* We are moving toward a continuos integration workflow, so its very important to have strong test, and lots of test coverage. [read more](http://en.wikipedia.org/wiki/Continuous_integration)

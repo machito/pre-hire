@@ -1,5 +1,5 @@
-This is a short guide to working at 1sale, its aim is to provide you with the information you need to have a successful first day at 1saleaday.
+Welcome to Octagon Commerce
 
-This is an [guide to getting your setup](/setup).
+You're on your way to becoming apart of the 1SaleADay development team. We've carefully prepared this short guide for getting you setup before you start. Our aim is to provide you with the information you need to have a successful first day.
 
-
+Let's get started with [getting your setup](/setup)!

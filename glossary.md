@@ -1,8 +1,8 @@
 **Glossary**
 
-We're tech geeks and we're proud.
+We're tech geeks and we're *very* proud.
 
-If you're having trouble understanding our lingo, you may reconsider this position, but we believe you'll catch on quickly.
+If you're having trouble understanding our lingo, you *may* reconsider this position, but we believe you'll catch on quickly.
 
 For your convenience, we've collected a glossary of common vocabulary:
 
@@ -16,4 +16,4 @@ For your convenience, we've collected a glossary of common vocabulary:
 * __RVM__: Ruby Version Manager
 * __MRI__: Mat'z Ruby Interpreter
 * __IRB__: Interactive Ruby
-* __hackathon__: a meetup with the team for collaborative programming, usually hosted on Saturdays at The LAB Miami
+* __hackathon__: a meetup, with the team for collaborative programming, usually hosted for 16 hours on Saturdays at [The LAB Miami](http://thelabmiami.com)

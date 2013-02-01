@@ -6,7 +6,7 @@ Ready, sparky? Let's get started with [getting your setup](/setup)!
 
 Once you've got your setup ready, proceed to read about our [code](/code-at-octagon) base.
 
-Do you still have questions? Please read over our [FAQ](/faq).
+Do you still have questions? Please read over our [glossary](/glossary) and [FAQ](/faq).
 
 <!--
 [glossary](/glossary) and

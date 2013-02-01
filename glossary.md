@@ -6,8 +6,4 @@ If you're having trouble understanding our lingo, you may reconsider this positi
 
 For your convenience, we've collected a glossary of common vocabulary:
 
-* **hackathon***(n)*: a meetup with the team for collaborative programming. [Hackathons](/hackathons) are usually hosted on Saturdays at The LAB Miami.
-*
-*
-*
-*
+* **hackathon** *(n)*: a meetup with the team for collaborative programming, usually hosted on Saturdays at The LAB Miami.

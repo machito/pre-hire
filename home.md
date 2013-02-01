@@ -1,4 +1,4 @@
-Welcome to Octagon Commerce
+**Welcome to Octagon Commerce**
 
 You're on your way to becoming apart of the 1SaleADay development team. We've carefully prepared this short guide for getting you setup before you start. Our aim is to provide you with the information you need to have a successful first day.
 

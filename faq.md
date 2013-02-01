@@ -2,71 +2,67 @@ F.A.Q.
 --------
 
 
-When hired, some of these questions may come to mind, please read through:
-
-
-1. What are my working hours?
+1. What are the hours?
 --------------------------
 
-Depending on whether you are an intern or a full-time employee, your hours will vary, typically, interns will work one to three day per week, and spend that time learning writing documentation and reading documentation.
+As an intern, you'll typically work 1-3 days per week and spend that time learning, writing, and writing documentation.
 
-Full-time developers will usually work from around 10 a.m. to about 8 p.m. daily. there are times when we stay late, because projects need to be delivered, or we are just having fun
+Full-time developers usually work from around 10:30 a.m. to about 8 p.m. daily. Sometimes we stay later.
 
 2. Do I have to use my personal computer for work?
 --------------------------------------------------
 
+We buy laptops for all of our full-time employees and we prefer that you work on them. For interns, it depends on the individual circumstances.
 
-Typically we discourage personal computer at work, we do make some exceptions for interns working on non-critical projects or applications, otherwise, we provide a $3000 budget as outlined in the [setup page](/setup).
 
-
-3. What are the benefits of working at 1saleaday?
+3. What are the perks?
 --------------------------------------------------
 
-- Small and growing department, 
-- To be able to work in large projects and contribute significantly, 
-- You get a $3000 budget for computers, 
-- We get catered lunch, 
-- Flexible hours, 
-- Occasional trips to conferences throughout the world, 
-- Occasional lunch and drinks with the team, 
-- Laid back cultural environment, 
-- Health benefits, 
-- Competitive pay.
+- Small and growing department
+- Opportunity to play a big role in important projects 
+- A $3000 budget for equipment
+- Catered lunch
+- Flexible hours
+- Trips to conferences throughout the world,
+- Lunch and drinks with the team
+- Motivated culture
+- Fun environment
+- Health benefits
+- Competitive pay
 
-
-
-4. Is overtime something frequent?
+4. How often will I be working overtime?
 --------------------------------------------------
 
-There is no overtime, every one is on salary, you are expected to put forth your best effort and show the company the same dedication and courtesy it provides to you
+There is no overtime. Everyone is on salary and is expected to put forth their best effort.
 
 
 5. Can I work from home?
 --------------------------------------------------
 
-There are days when we work from home, if you'd like to work from home, just ask a day or so in advance and we'll do our best to accommodate
+Occasionally. If you'd like to work from home, just tell us in advance.
 
 
-6. How would my success me measured?
+6. How will my success be measured?
 --------------------------------------------------
 
 The quality of your work, what this means is: 
-- how many bugs you don't deploy, 
-- how many test you have, 
-- your ability to figure things out on your own 
-- and work with other departments as needed
+- how reliable is your code
+- how well tested it is 
+- independence and the ability to deal with ambiguity
+- ability to work with other teams
 
 
 7. What’s the most important thing I can accomplish in the first 60 days?
 --------------------------------------------------
 
-being reliable and delivering the highest quality work possible
+Being reliable and doing great work
 
 
-8. Are there opportunities to grow in the company?
+8. Are there opportunities to grow within the company?
 --------------------------------------------------
 
-Yes, anyone that comes on board, must be promising, willing to learn and happy to work. With that, as the company grows, so will this person.
+As an individual, you can grow your skills, dive into the world of e-commerce, and work on solutions to real-world problems.
 
+As the company grows, promising and motivated people can grow with it, should they choose to.
 
 

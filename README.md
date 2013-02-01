@@ -1,5 +1,5 @@
 #Welcome to Octagon Commerce
-*Before getting started with the 1SaleADay*
+*Before getting started with the 1SaleADay team*
 --
 
 This respository contains a brief guide aimed to get you up-to-speed for a successful first day at 1SaleADay.

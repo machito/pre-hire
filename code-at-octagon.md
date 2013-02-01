@@ -40,4 +40,4 @@ CSS
 Continuous Integration
 --
 
-We are moving toward a continuos integration workflow, so its very important to have strong test, and lots of test coverage. [read more](http://en.wikipedia.org/wiki/Continuous_integration)
+We are moving toward a continuous integration workflow, so its very important to have strong test, and lots of test coverage. [read more](http://en.wikipedia.org/wiki/Continuous_integration)

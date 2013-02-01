@@ -19,7 +19,7 @@ When you have your setup details finalized, please send all related links to [Au
 
 ###Email account
 
-In order to get an @1SaleADay.com email account setup, please send a request to [Auston](mailto:auston@1saleaday.com)
+In order to get an @1SaleADay.com email account setup, please send a request to [Auston](mailto:auston@1saleaday.com).
 
 ##Learn more
 

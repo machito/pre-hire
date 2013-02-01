@@ -1,7 +1,7 @@
 ##Setup
 ###Your machine
 
-Every full-time employee is offered a budget of $3,000 for setup & equipment. We strongly prefer Apple products.
+Every full-time developer is offered a budget of $3,000 for setup & equipment. We strongly prefer Apple products.
 
 The following is an ideal and recommended setup for working with us:
 

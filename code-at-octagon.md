@@ -43,6 +43,8 @@ However we are making a concious effort to move towards a more MV* oriented appr
 
 We don't have any tests besides integration for JavaScript but we'll more than likely be using things like Jasmine for JavaScript testing.
 
+As a side note, we intend on starting to use CoffeeScript.
+
 CSS
 --
 
@@ -51,6 +53,8 @@ CSS
 * CSS3
 * LESS
 * Cross Browser Compatibility
+
+We also plan on using bootstrap for some of our internal tools ;)
 
 Continuous Integration
 --

@@ -28,14 +28,14 @@ Testing is crazy important, we make use of:
 Rails
 --
 
-* Activemerchant [read more](http://activemerchant.org/)
+* Active Merchant [read more](http://activemerchant.org/)
 * Haml [read more](http://haml.info/)
 * Paperclip [read more](https://github.com/thoughtbot/paperclip)
 
 JavaScript
 --
 
-* Jquery [read more](http://jquery.com/)
+* jQuery [read more](http://jquery.com/)
 * Highcharts [read more](http://www.highcharts.com/)
 * Colorbox [read more](http://www.jacklmoore.com/colorbox)
 
@@ -49,9 +49,10 @@ CSS
 * Jammit
 * CSS2
 * CSS3
+* LESS
 * Cross Browser Compatibility
 
 Continuous Integration
 --
 
-We are moving toward a continuous integration workflow, so its very important to have strong test, and lots of test coverage. [read more](http://en.wikipedia.org/wiki/Continuous_integration)
+We are moving toward a continuous integration workflow, so it's very important to have strong tests, and comprehensive test coverage. [read more](http://en.wikipedia.org/wiki/Continuous_integration)

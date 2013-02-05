@@ -8,6 +8,6 @@ In order to view its contents properly, setup [Gollum](https://github.com/github
 
 Copying and pasting this command into terminal will get you started. It will ask for your password in order to install gollum.
 
-	git clone https://github.com/OctagonCommerce/pre-hire.git $HOME/pre-hire && cd $HOME/pre-hire && bash prehire.sh
+	git clone https://github.com/OctagonCommerce/pre-hire.git $HOME/pre-hire && cd $HOME/pre-hire && bash launcher.sh
 
 If you ever have any questions, please contact us immediately.

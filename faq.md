@@ -21,7 +21,6 @@ We buy laptops for all of our full-time employees and we prefer that you work on
 - Small and growing department
 - Opportunity to play a big role in important projects 
 - A $3000 budget for equipment
-- Catered lunch
 - Flexible hours
 - Trips to conferences throughout the world,
 - Lunch and drinks with the team

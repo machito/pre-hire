@@ -16,4 +16,4 @@ For your convenience, we've collected a glossary of common vocabulary:
 * __RVM__: Ruby Version Manager
 * __MRI__: Mat'z Ruby Interpreter
 * __IRB__: Interactive Ruby
-* __hackathon__: a meetup, with the team for collaborative programming, usually hosted for 16 hours on Saturdays at [The LAB Miami](http://thelabmiami.com)
+* __hackathon__: a meetup with the team for collaborative programming, usually hosted for 16 hours on Saturdays at [The LAB Miami](http://thelabmiami.com)

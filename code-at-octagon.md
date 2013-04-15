@@ -48,15 +48,16 @@ As a side note, we intend on starting to use CoffeeScript.
 CSS
 --
 
-* Jammit
-* CSS2
-* CSS3
-* LESS
-* Cross Browser Compatibility
+* [Jammit](http://documentcloud.github.io/jammit/)
+* CSS2 & 3
+* [SASS](http://sass-lang.com/)
+* [BrowserStack](http://www.browserstack.com/) for cross-browser testing
 
-We also plan on using bootstrap for some of our internal tools ;)
+We also occassionally use [Twitter Bootstrap](http://twitter.github.io/bootstrap/) for some of our internal tools ;)
 
 Continuous Integration
 --
 
-We are moving toward a continuous integration workflow, so it's very important to have strong tests, and comprehensive test coverage. [read more](http://en.wikipedia.org/wiki/Continuous_integration)
+We are moving toward a [continuous integration](http://en.wikipedia.org/wiki/Continuous_integration) workflow, so it's very important to have strong tests, and comprehensive test coverage. 
+
+Eventually, we will be using services like [Travis CI](https://travis-ci.org/) to monitor the current build-state of our app.
